@@ -1,0 +1,51 @@
+{
+  "_comment": "Edit these lists freely. Matching is case-insensitive and checks for the phrase anywhere in the listing title. exclude_keywords are hard drops (noise). manufacturer_keywords/grading_keywords only set a 'quality_signal' flag on the output -- they never cause a listing to be dropped.",
+
+  "exclude_keywords": [
+    "reprint",
+    "re-print",
+    "custom card",
+    "customs",
+    "novelty",
+    "fan art",
+    "fanart",
+    "fan made",
+    "fanmade",
+    "bootleg",
+    "counterfeit",
+    "replica",
+    "proxy",
+    "not authentic",
+    "art card",
+    "aceo",
+    "trading card sized",
+    "digital download",
+    "digital card",
+    "mystery box",
+    "repack"
+  ],
+
+  "manufacturer_keywords": [
+    "topps",
+    "panini",
+    "bowman",
+    "donruss",
+    "upper deck",
+    "fleer",
+    "score",
+    "leaf",
+    "select",
+    "prizm",
+    "optic",
+    "mosaic",
+    "contenders",
+    "chrome"
+  ],
+
+  "grading_keywords": [
+    "psa",
+    "bgs",
+    "sgc",
+    "cgc"
+  ]
+}
